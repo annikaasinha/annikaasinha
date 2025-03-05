@@ -4,7 +4,7 @@ on:
     - cron: "0 0 * * *"  # Runs daily at midnight
   workflow_dispatch:
 permissions:
-  contents: write  # ✅ Grants permission to push to the repository
+  contents: write  # ✅ Allows pushing to the repository
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,14 +20,13 @@ jobs:
           github_user_name: annikaasinha
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Fix file permissions
-        run: chmod 777 dist/github-contribution-grid-snake.svg  # ✅ Allow write permissions
-
       - name: Push to output branch
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git checkout output  # ✅ Switch to the output branch
+          git checkout --orphan output  # ✅ Ensure the branch is created
+          git reset --hard  # ✅ Remove old files
+          git clean -fd  # ✅ Clean untracked files
           cp dist/github-contribution-grid-snake.svg .
           git add github-contribution-grid-snake.svg
           git commit -m "Update snake contribution animation"
