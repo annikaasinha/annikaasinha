@@ -12,7 +12,7 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false  # ✅ Prevents credential conflicts
+          fetch-depth: 0  # ✅ Ensures all branches are available
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -20,14 +20,15 @@ jobs:
           github_user_name: annikaasinha
           outputs: dist/github-contribution-grid-snake.svg
 
+      - name: Fix file permissions
+        run: chmod 777 dist/github-contribution-grid-snake.svg  # ✅ Allow write permissions
+
       - name: Push to output branch
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git fetch origin
-          git checkout -b output origin/output || git checkout output
-          mkdir -p dist
-          mv dist/github-contribution-grid-snake.svg .
+          git checkout output  # ✅ Switch to the output branch
+          cp dist/github-contribution-grid-snake.svg .
           git add github-contribution-grid-snake.svg
           git commit -m "Update snake contribution animation"
           git push origin output --force
