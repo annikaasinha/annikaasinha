@@ -10,7 +10,7 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v4
       - name: Generate Snake
-        uses: Platane/snk@v4
+        uses: Platane/snk@v2
         with:
           github_user_name: annikaasinha
           outputs: dist/snake.svg
