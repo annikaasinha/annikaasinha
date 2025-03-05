@@ -44,7 +44,6 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=annikaasinha&color=blue)
-![GitHub Contribution Snake](https://github.com/annikaasinha/annikaasinha/blob/output/github-snake.svg)
 
 
 <!--
