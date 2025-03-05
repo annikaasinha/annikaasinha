@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=annikaasinha&show_icons=true&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=annikaasinha&color=blue)
-![GitHub Contribution Snake](https://github.com/annikaasinha/annikaasinha/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/annikaasinha/annikaasinha/blob/output/github-snake.svg)
 
 
 <!--
