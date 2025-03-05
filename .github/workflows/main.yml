@@ -9,13 +9,14 @@ jobs:
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v4
+
       - name: Generate Snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3  # ✅ Use v3 instead of v2
         with:
           github_user_name: annikaasinha
-          outputs: dist/snake.svg
+
       - name: Upload Snake
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v4  # ✅ Ensure v4 is used
         with:
-          name: snake.svg
-          path: dist/snake.svg
+          name: snake
+          path: dist/github-contribution-grid-snake.svg  # ✅ Corrected path
