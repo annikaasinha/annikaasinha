@@ -3,12 +3,16 @@ on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight
   workflow_dispatch:
+permissions:
+  contents: write  # ✅ Grants permission to push to the repository
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # ✅ Prevents credential conflicts
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -16,14 +20,16 @@ jobs:
           github_user_name: annikaasinha
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Create output branch and commit snake file
+      - name: Push to output branch
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git checkout --orphan output
-          git reset --hard
-          git clean -fd
+          git fetch origin
+          git checkout -b output origin/output || git checkout output
+          mkdir -p dist
           mv dist/github-contribution-grid-snake.svg .
           git add github-contribution-grid-snake.svg
           git commit -m "Update snake contribution animation"
           git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ Uses GitHub token for authentication
