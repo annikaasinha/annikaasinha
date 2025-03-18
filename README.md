@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Annika Sinha 
+## Hello! 👋 I'm Annika 
 ---
 
 ## 🚀 Tech Stack:
