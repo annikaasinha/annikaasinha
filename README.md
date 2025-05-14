@@ -1,4 +1,4 @@
-## Hello! 👋 I'm Annika 
+## Hello! I'm Annika 
 ---
 
 ## 🚀 Tech Stack:
