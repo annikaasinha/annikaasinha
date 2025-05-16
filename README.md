@@ -1,6 +1,6 @@
 ## Hello! I'm Annika 
 ---
-[Personal Portfolio]([url](https://v0-personal-portfolio-website-mocha-six.vercel.app/))
+[Personal Portfolio]([https://v0-personal-portfolio-website-mocha-six.vercel.app/]
 
 ## 🚀 Tech Stack:
 <p align="center">
