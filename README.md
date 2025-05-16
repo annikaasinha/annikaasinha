@@ -1,63 +1,71 @@
-## Hello! I'm Annika 
----
-[Personal Portfolio]([https://v0-personal-portfolio-website-mocha-six.vercel.app/]
+<h1 align="center">Hi there, I'm Annika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
-## 🚀 Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <a href="https://v0-personal-portfolio-website-mocha-six.vercel.app/" target="_blank">
+    🌐 Personal Portfolio
+  </a>
+</p>
+
+<p align="center">
+  <!-- Dark/Light mode responsive illustration -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://your-dark-mode-illustration.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://your-light-mode-illustration.svg">
+    <img alt="Annika's banner" src="https://your-light-mode-illustration.svg" width="300">
+  </picture>
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## 🚀 Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annikaasinha&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annikaasinha&theme=tokyonight" width="48%">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-## 🔥 Most Used Languages:
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annikaasinha&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=annikaasinha&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annikaasinha&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph:
-![GitHub Contribution Snake](https://github.com/annikaasinha/annikaasinha/blob/output/github-snake.svg)
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annikaasinha&layout=compact&theme=tokyonight" width="48%"/>
+</p>
 
 ---
 
-## 📫 Connect with Me:
+## 🐍 Contribution Graph
+
 <p align="center">
-  <a href="https://linkedin.com/in/annika-sinha"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:annika22082@iiitd.ac.in"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://github.com/annikaasinha/annikaasinha/blob/output/github-snake.svg"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=annikaasinha&color=blue)
+---
 
+## 📫 Connect with Me
 
-<!--
-**annikaasinha/annikaasinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/annika-sinha"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:annika22082@iiitd.ac.in"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=annikaasinha&color=blue" alt="Profile Views"/>
+</p>
