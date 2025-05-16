@@ -6,14 +6,7 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- Dark/Light mode responsive illustration -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://your-dark-mode-illustration.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://your-light-mode-illustration.svg">
-    <img alt="Annika's banner" src="https://your-light-mode-illustration.svg" width="300">
-  </picture>
-</p>
+
 
 ---
 
