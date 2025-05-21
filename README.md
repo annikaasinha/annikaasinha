@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -52,7 +52,7 @@
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/annika-sinha"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
