@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://v0-personal-portfolio-website-mocha-six.vercel.app/" target="_blank">
-    🌐 Personal Portfolio
+     Personal Portfolio
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=annikaasinha&show_icons=true&theme=tokyonight" width="48%"/>
@@ -36,7 +36,7 @@
 
 ---
 
-## 🔥 Most Used Languages
+##  Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annikaasinha&layout=compact&theme=tokyonight" width="48%"/>
@@ -44,7 +44,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github.com/annikaasinha/annikaasinha/blob/output/github-snake.svg"/>
