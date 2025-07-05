@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://v0-personal-portfolio-website-mocha-six.vercel.app/" target="_blank">Personal Portfolio</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/annika_sinha/" target="_blank">Leetcode</a>
 </p>
 
 
