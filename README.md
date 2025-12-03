@@ -1,8 +1,4 @@
 <h1 align="center">Hello!</h1>
-<p align="center">
-  <a href="https://v0-personal-portfolio-website-mocha-six.vercel.app/" target="_blank">Personal Portfolio</a>
-  &nbsp;&nbsp;&nbsp;
-</p>
 
 
 
@@ -26,20 +22,8 @@
 
 ---
 
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annikaasinha&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annikaasinha&theme=tokyonight" width="48%"/>
-</p>
 
 ---
-
-##  Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annikaasinha&layout=compact&theme=tokyonight" width="48%"/>
-</p>
 
 ---
 
